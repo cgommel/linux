@@ -330,6 +330,7 @@ dtbo-$(CONFIG_ARCH_BCM2835) += \
 	ugreen-dabboard.dtbo \
 	upstream.dtbo \
 	upstream-pi4.dtbo \
+	utilitools-fut05-pi5.dtbo \
 	vc4-fkms-v3d.dtbo \
 	vc4-fkms-v3d-pi4.dtbo \
 	vc4-kms-dpi-generic.dtbo \
